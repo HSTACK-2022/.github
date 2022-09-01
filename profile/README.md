@@ -26,7 +26,7 @@
 
 | 한성대학교 <br/> 제 17회 한성공학경진대회 <br/> 작품부문 금상 | 한성대학교 <br/> 제 17회 한성공학경진대회 <br/> 특허부문 동상 | 2022 한성대학교 <br/> 컴퓨터공학부 캡스톤디자인 발표회 <br/>모바일분야 최우수상 |
 | --- | --- | --- |
-| <img src="./img/award2021_1.jpg" alt="21공경진_금상" width = "300"/> | <img src="./img/award2021_2.jpg" alt="21공경진_동상" width = "300"/> | <img src="./img/awardCapstone.jpg" alt="22캡스톤" width = "300"/> |
+| <img src="https://user-images.githubusercontent.com/73868349/187857608-bcec835a-76bb-4b24-ac3f-94292126b639.jpg" alt="21공경진_금상" width = "300"/> | <img src="https://user-images.githubusercontent.com/73868349/187857543-cfef093d-e940-4810-8463-c7f7a267d05a.jpg" alt="21공경진_동상" width = "300"/> | <img src="https://user-images.githubusercontent.com/73868349/187857473-778ddd63-96d4-4bc7-98ac-e1ce692a7239.jpg" alt="22캡스톤" width = "300"/> |
 
 <br/>
 
@@ -39,7 +39,7 @@
 
 - **검색 가능한 비디오 플레이어 (Video Searcher)**
     
-    [<img src="./img/videoSearcher.jpg" alt="VideoSearcher"
+    [<img src="https://user-images.githubusercontent.com/73868349/187857334-510a3c9f-5667-46f8-bbd3-a80be5d59d63.jpg" alt="VideoSearcher"
  width = "480" height="270" />](https://github.com/HSTACK-2022/VideoSearcher)
     
     > Video Searcher는 영상 내 <b>키워드와 이미지를 바탕으로 한 검색</b> 시스템을 구축해<br/>
