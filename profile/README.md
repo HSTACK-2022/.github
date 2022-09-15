@@ -3,8 +3,7 @@
 > 각자의 노력이 모여 하나의 스택을 이루기까지. <br/>
 > 안녕하세요, 황스택입니다!
 
----
-
+<br/>
 <br/>
 
 ## 👩 팀원
@@ -18,9 +17,7 @@
 | 이화랑 | 한성대학교 컴퓨터공학부 | ghk26847@naver.com |
 
 <br/>
-
----
-
+<br/>
 <br/>
 
 ## 🏆 수상 내역
@@ -30,9 +27,7 @@
 | <img src="https://user-images.githubusercontent.com/73868349/187857608-bcec835a-76bb-4b24-ac3f-94292126b639.jpg" alt="21공경진_금상" width = "300"/> | <img src="https://user-images.githubusercontent.com/73868349/187857543-cfef093d-e940-4810-8463-c7f7a267d05a.jpg" alt="21공경진_동상" width = "300"/> | <img src="https://user-images.githubusercontent.com/73868349/187857473-778ddd63-96d4-4bc7-98ac-e1ce692a7239.jpg" alt="22캡스톤" width = "300"/> |
 
 <br/>
-
----
-
+<br/>
 <br/>
 
 
