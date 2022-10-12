@@ -26,7 +26,7 @@
 | --- | --- | --- |
 | <img src="https://user-images.githubusercontent.com/73868349/187857608-bcec835a-76bb-4b24-ac3f-94292126b639.jpg" alt="21공경진_금상" width = "300"/> | <img src="https://user-images.githubusercontent.com/73868349/187857543-cfef093d-e940-4810-8463-c7f7a267d05a.jpg" alt="21공경진_동상" width = "300"/> | <img src="https://user-images.githubusercontent.com/73868349/187857473-778ddd63-96d4-4bc7-98ac-e1ce692a7239.jpg" alt="22캡스톤" width = "300"/> |
 
-| 한성대학교 <br/> 제 18회 한성공학경진대회 <br/> 작품부문 대상 <br/> (1위) | 한성대학교 <br/> 제 18회 한성공학경진대회 <br/> 특허부문 금상 <br/> (1위) | . |
+| 한성대학교 <br/> 제 18회 한성공학경진대회 <br/> 작품부문 대상 <br/> (1위) | 한성대학교 <br/> 제 18회 한성공학경진대회 <br/> 특허부문 금상 <br/> (1위) | 2022학년도 1학기 한성대학교 <br/> 창의융합성과 경진대회 (C&C Festival) <br/> 금상 <br/> (2위) |
 | --- | --- | --- |
 | . | . | . |
 
