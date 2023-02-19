@@ -46,12 +46,12 @@
 
 ## ⚙ Repository
 
-- **검색 가능한 비디오 플레이어 (Video Searcher)**
+- **검색 가능한 비디오 플레이어 (Timestamp Finder / Video Searcher)**
     
     [<img src="https://user-images.githubusercontent.com/73868349/187857334-510a3c9f-5667-46f8-bbd3-a80be5d59d63.jpg" alt="VideoSearcher"
  width = "480" height="270" />](https://github.com/HSTACK-2022/VideoSearcher)
     
-    > Video Searcher는 영상 내 <b>키워드와 이미지를 바탕으로 한 검색</b> 시스템을 구축해<br/>
+    > Timestamp Finder(구 Video Searcher)는 영상 내 <b>키워드와 이미지를 바탕으로 한 검색</b> 시스템을 구축해<br/>
     > 사용자에게 효율적인 영상 시청을 제공하는 <b>Android Application</b>입니다.
 
     
