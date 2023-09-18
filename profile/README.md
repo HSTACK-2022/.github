@@ -1,6 +1,6 @@
 # HSTACK (황스택)
 
-> 2021.06 ~ 2022.12
+> 2021.06 ~ 2022.12 <br/>
 > 한성대학교 컴퓨터공학부 학생으로 이뤄진 프로젝트 팀입니다.
 
 <br/>
@@ -14,7 +14,7 @@
 | 김다연 | 한성대학교 컴퓨터공학부 | [@DayeonKim](https://github.com/yeondelight) | hihi5v@naver.com |
 | 오하늘 | 한성대학교 컴퓨터공학부 | [@HaneulOh](https://github.com/haneul5) | okk0719@naver.com |
 | 이선영 | 한성대학교 컴퓨터공학부 | [@SunyoungLee](https://github.com/hs-1891265-sunyounglee) | 4446207@naver.com |
-| 이화랑 | 한성대학교 컴퓨터공학부 | [@HwarangLee](https://github.com/Le-Hwarang) | ghk2684@naver.com |
+| 이화랑 | 한성대학교 컴퓨터공학부 | [@HwarangLee](https://github.com/Lee-Hwarang) | ghk2684@naver.com |
 
 <br/>
 <br/>
