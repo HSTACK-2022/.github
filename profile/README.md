@@ -1,20 +1,20 @@
 # HSTACK (황스택)
 
-> 각자의 노력이 모여 하나의 스택을 이루기까지. <br/>
-> 안녕하세요, 황스택입니다!
+> 2021.06 ~ 2022.12
+> 한성대학교 컴퓨터공학부 학생으로 이뤄진 프로젝트 팀입니다.
 
 <br/>
 <br/>
 
 ## 👩 팀원
 
-| 이름 | 소속 | email |
-| --- | --- | --- |
-| 조민화 <b>(팀장)</b> | 한성대학교 컴퓨터공학부 | dianne11161@gmail.com |
-| 김다연 | 한성대학교 컴퓨터공학부 | hihi5v@naver.com |
-| 오하늘 | 한성대학교 컴퓨터공학부 | okk0719@naver.com |
-| 이선영 | 한성대학교 컴퓨터공학부 | 4446207@naver.com |
-| 이화랑 | 한성대학교 컴퓨터공학부 | ghk2684@naver.com |
+| 이름 | 소속 (`22기준) | github | email |
+| --- | --- | --- | --- |
+| 조민화 | 한성대학교 컴퓨터공학부 |[@MinhwaCho](https://github.com/MinhwaCho) | dianne11161@gmail.com |
+| 김다연 | 한성대학교 컴퓨터공학부 | [@DayeonKim](https://github.com/yeondelight) | hihi5v@naver.com |
+| 오하늘 | 한성대학교 컴퓨터공학부 | [@HaneulOh](https://github.com/haneul5) | okk0719@naver.com |
+| 이선영 | 한성대학교 컴퓨터공학부 | [@SunyoungLee](https://github.com/hs-1891265-sunyounglee) | 4446207@naver.com |
+| 이화랑 | 한성대학교 컴퓨터공학부 | [@HwarangLee](https://github.com/Le-Hwarang) | ghk2684@naver.com |
 
 <br/>
 <br/>
@@ -22,22 +22,14 @@
 
 ## 🏆 수상 내역
 
-| 2022 제 16회 공개SW 개발자대회 <br/> 과학기술정보통신부 장관상 <br/> (학생부문 대상, 1위) |
-| --- |
-| <img src="https://user-images.githubusercontent.com/73868349/205923726-77bf0d71-0c73-42a5-a647-205d4e834b65.jpg" alt="공개SW개발자대회_과기부장관상_황스택"/> |
+| '22 제 16회 공개SW 개발자대회 <br/> 과학기술정보통신부 장관상 <br/> (학생부문 대상, 1위) | '22 한성대학교 컴퓨터공학부 <br/> 캡스톤디자인 작품 발표회 <br/>모바일분야 최우수상 (1위) | '22 1학기 한성대학교 <br/> 창의융합성과 경진대회 (C&C Festival) <br/> 금상 (2위)  |
+| --- | --- | --- |
+| <img src="https://user-images.githubusercontent.com/73868349/205923726-77bf0d71-0c73-42a5-a647-205d4e834b65.jpg" alt="공개SW개발자대회_과기부장관상_황스택" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/187857473-778ddd63-96d4-4bc7-98ac-e1ce692a7239.jpg" alt="22캡스톤" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/202950859-4cfeaa4d-7d1e-4ed7-ac8f-be85c7b1811b.jpg" alt="22C&C" width = "500"/> |
 
 
-| 한성대학교 <br/> 제 17회 한성공학경진대회 <br/> 작품부문 금상 (2위) | 한성대학교 <br/> 제 17회 한성공학경진대회 <br/> 특허부문 동상 (3위) |
-| --- | --- |
-| <img src="https://user-images.githubusercontent.com/73868349/187857608-bcec835a-76bb-4b24-ac3f-94292126b639.jpg" alt="21공경진_금상" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/187857543-cfef093d-e940-4810-8463-c7f7a267d05a.jpg" alt="21공경진_동상" width = "500"/> |
-
-| 한성대학교 <br/> 제 18회 한성공학경진대회 <br/> 작품부문 대상 (1위) | 한성대학교 <br/> 제 18회 한성공학경진대회 <br/> 특허부문 금상 (1위) |
-| --- | --- |
-| <img src="https://user-images.githubusercontent.com/73868349/202950862-78e46386-18f2-45f8-ac3d-c9fcf8935cc4.jpg" alt="22공경진_대상" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/202950863-fd5eb36f-9b12-49af-8b01-a4d8c22b0994.jpg" alt="22공경진_금상" width = "500"/> |
-
-| 2022 한성대학교 <br/> 컴퓨터공학부 캡스톤디자인 발표회 <br/>모바일분야 최우수상 (1위) | 2022학년도 1학기 한성대학교 <br/> 창의융합성과 경진대회 (C&C Festival) <br/> 금상 (2위) |
-| --- | --- |
-| <img src="https://user-images.githubusercontent.com/73868349/187857473-778ddd63-96d4-4bc7-98ac-e1ce692a7239.jpg" alt="22캡스톤" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/202950859-4cfeaa4d-7d1e-4ed7-ac8f-be85c7b1811b.jpg" alt="22C&C" width = "500"/> |
+| 한성대학교 <br/> 제 18회 한성공학경진대회 <br/> 작품부문 대상 (1위) | 한성대학교 <br/> 제 18회 한성공학경진대회 <br/> 특허부문 금상 (1위) | 한성대학교 <br/> 제 17회 한성공학경진대회 <br/> 작품부문 금상 (2위) | 한성대학교 <br/> 제 17회 한성공학경진대회 <br/> 특허부문 동상 (3위) |
+| --- | --- | --- | --- |
+| <img src="https://user-images.githubusercontent.com/73868349/202950862-78e46386-18f2-45f8-ac3d-c9fcf8935cc4.jpg" alt="22공경진_대상" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/202950863-fd5eb36f-9b12-49af-8b01-a4d8c22b0994.jpg" alt="22공경진_금상" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/187857608-bcec835a-76bb-4b24-ac3f-94292126b639.jpg" alt="21공경진_금상" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/187857543-cfef093d-e940-4810-8463-c7f7a267d05a.jpg" alt="21공경진_동상" width = "500"/> |
 
 <br/>
 <br/>
