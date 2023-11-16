@@ -22,9 +22,9 @@
 
 ## 🏆 수상 내역
 
-| '22 제 16회 공개SW 개발자대회 <br/> 과학기술정보통신부 장관상 <br/> (학생부문 대상, 1위) | '22 한성대학교 컴퓨터공학부 <br/> 캡스톤디자인 작품 발표회 <br/>모바일분야 최우수상 (1위) | '22 1학기 한성대학교 <br/> 창의융합성과 경진대회 (C&C Festival) <br/> 금상 (2위)  |
-| --- | --- | --- |
-| <img src="https://user-images.githubusercontent.com/73868349/205923726-77bf0d71-0c73-42a5-a647-205d4e834b65.jpg" alt="공개SW개발자대회_과기부장관상_황스택" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/187857473-778ddd63-96d4-4bc7-98ac-e1ce692a7239.jpg" alt="22캡스톤" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/202950859-4cfeaa4d-7d1e-4ed7-ac8f-be85c7b1811b.jpg" alt="22C&C" width = "500"/> |
+| 21st NEA OSS Promotion forum <br/> Outstanding Technologies Project Award | '22 제 16회 공개SW 개발자대회 <br/> 과학기술정보통신부 장관상 <br/> (학생부문 대상, 1위) | '22 한성대학교 컴퓨터공학부 <br/> 캡스톤디자인 작품 발표회 <br/>모바일분야 최우수상 (1위) | '22 1학기 한성대학교 <br/> 창의융합성과 경진대회 (C&C Festival) <br/> 금상 (2위)  |
+| --- | --- | --- | --- |
+| --- | <img src="https://user-images.githubusercontent.com/73868349/205923726-77bf0d71-0c73-42a5-a647-205d4e834b65.jpg" alt="공개SW개발자대회_과기부장관상_황스택" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/187857473-778ddd63-96d4-4bc7-98ac-e1ce692a7239.jpg" alt="22캡스톤" width = "500"/> | <img src="https://user-images.githubusercontent.com/73868349/202950859-4cfeaa4d-7d1e-4ed7-ac8f-be85c7b1811b.jpg" alt="22C&C" width = "500"/> |
 
 
 | 한성대학교 <br/> 제 18회 한성공학경진대회 <br/> 작품부문 대상 (1위) | 한성대학교 <br/> 제 18회 한성공학경진대회 <br/> 특허부문 금상 (1위) | 한성대학교 <br/> 제 17회 한성공학경진대회 <br/> 작품부문 금상 (2위) | 한성대학교 <br/> 제 17회 한성공학경진대회 <br/> 특허부문 동상 (3위) |
