@@ -13,7 +13,7 @@
 | 조민화 | 한성대학교 컴퓨터공학부 |[@MinhwaCho](https://github.com/MinhwaCho) | dianne11161@gmail.com |
 | 김다연 | 한성대학교 컴퓨터공학부 | [@DayeonKim](https://github.com/yeondelight) | hihi5v@naver.com |
 | 오하늘 | 한성대학교 컴퓨터공학부 | [@HaneulOh](https://github.com/haneul5) | okk0719@naver.com |
-| 이선영 | 한성대학교 컴퓨터공학부 | [@SunyoungLee](https://github.com/hs-1891265-sunyounglee) | 4446207@naver.com |
+| 이선영 | 한성대학교 컴퓨터공학부 | [@SunyoungLee](https://github.com/godltjsdud) | 4446207@naver.com |
 | 이화랑 | 한성대학교 컴퓨터공학부 | [@HwarangLee](https://github.com/Lee-Hwarang) | ghk2684@naver.com |
 
 <br/>
